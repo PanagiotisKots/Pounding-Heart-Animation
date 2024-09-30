@@ -3,7 +3,7 @@
 
 <div align = "center">
   
-<img src = "img/img3.jpg">
+<img src = "img/img1.jpg">
 
 </div>
 
@@ -32,4 +32,4 @@ From the bottom of my heart,
 
 | Image 1        | Image 2        |
 | -------------- | -------------- |
-| ![Alt Text 1](img/img1.jpg) | ![Alt Text 2](img/img2.jpg) |
+| ![Alt Text 1](img/img3.jpg) | ![Alt Text 2](img/img2.jpg) |
