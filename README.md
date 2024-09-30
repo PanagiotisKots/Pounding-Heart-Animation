@@ -7,7 +7,7 @@
 
 </div>
 
-**Dedicated to [Her Name]**
+**Dedicated to [ntina]**
 
 ---
 
