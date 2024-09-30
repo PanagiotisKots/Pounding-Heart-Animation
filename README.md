@@ -1,4 +1,4 @@
-# 💖 Pounding Heart Console App
+# 💖 Pounding Heart Console Animation
 
 
 <div align = "center">
