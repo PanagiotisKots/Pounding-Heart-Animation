@@ -1,5 +1,12 @@
 # 💖 Pounding Heart Console App
 
+
+<div align = "center">
+  
+<img src = "img/img3.jpg">
+
+</div>
+
 **Dedicated to [Her Name]**
 
 ---
