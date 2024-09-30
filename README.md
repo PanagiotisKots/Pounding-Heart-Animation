@@ -9,9 +9,7 @@
 
 **Dedicated to [ntina]**
 
----
-
-## Overview
+<br>
 
 This project is not just a console application—it's a labor of love, a heartfelt expression of everything I feel for you, [Her Name]. It symbolizes the joy, love, and gratitude you’ve brought into my life, and I wanted to create something unique to reflect that. 🌟
 
