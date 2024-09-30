@@ -21,3 +21,8 @@ I hope this small creation brings a smile to your face, just as you’ve brought
 From the bottom of my heart,  
 **Thank you**, [Her Name].  
 **Love you**. 💖
+
+
+| Image 1        | Image 2        |
+| -------------- | -------------- |
+| ![Alt Text 1](img/img1.jpg) | ![Alt Text 2](img/img2.jpg) |
