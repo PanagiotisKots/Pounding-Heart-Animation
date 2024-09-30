@@ -7,6 +7,8 @@
 
 </div>
 
+<br>
+
 **Dedicated to [ntina]**
 
 <br>
@@ -23,7 +25,7 @@ This is for you, someone who will always hold a special place in my heart. 💕
 
 
 
-
+<br><br>
 
 
 |       -        |       -        |
