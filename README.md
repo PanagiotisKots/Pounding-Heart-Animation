@@ -24,8 +24,8 @@ Every line of this project is written with thoughts of you. Each heartbeat is a 
 I hope this small creation brings a smile to your face, just as you’ve brought countless smiles to mine. 😊
 
 From the bottom of my heart,  
-**Thank you**, [Her Name].  
-**Love you**. 💖
+**Thank you**💖
+
 
 
 |       -        |       -        |
