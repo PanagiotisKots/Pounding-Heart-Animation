@@ -1,4 +1,4 @@
-# ❤️💖 Pounding Heart Console Animation
+# 💖 Pounding Heart Console Animation
 
 
 <div align = "center">
