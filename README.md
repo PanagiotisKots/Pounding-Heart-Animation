@@ -11,9 +11,9 @@
 
 <br>
 
-This project is dedicated to a very special person in my life:  **NTINA** , someone who brings joy and light to every moment we share.
+This project is dedicated to a very special person in my life, someone who brings joy and light to every moment we share.
 
-I created this heart animation to represent how much you mean to me and how my heart beats a little faster whenever you're around. 💓💫
+I created this complex console heart animation project, to represent how much you mean to me and how my heart beats a little faster whenever you're around. 💓💫
 
 Thank you for being such an amazing friend, a constant source of happiness, and someone who always knows how to brighten my day. I hope this small gesture brings a smile to your face, just like you do for me every day. 😊💖
 
