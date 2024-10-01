@@ -73,12 +73,12 @@ def main():
             zb[i] = 0  # Reset for next frame
 
         # Print text below the heart
-        print("\n" + " " * 5 + "------------------------------")
+        print("\n" + " " * 5 + "--------------------------------------")
         print(" " * 5 + "made by: Panagiotis Kotsorgios")
         print(" " * 5 + "made for: Ntina")
         print(" " * 5 + "language: Python3")
-        print(" " * 5 + "Description: A console based pounding heart animation")
-        print("\n" + " " * 5 + "------------------------------")
+        print(" " * 5 + "Description: A console based pounding \nheart animation")
+        print("\n" + " " * 5 + "--------------------------------------")
 
         t += 0.01  # Increase the time increment for smoother transitions
         rotation_angle += 0.05  # Continuously increase rotation angle
