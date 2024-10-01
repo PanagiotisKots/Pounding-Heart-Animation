@@ -77,8 +77,6 @@ def main():
         print(" " * 5 + "made by: Panagiotis Kotsorgios")
         print(" " * 5 + "made for: Ntina")
         print(" " * 5 + "language: Python3")
-        print(" " * 5 + "Description: A console based pounding \n \theart animation")
-        print("\n" + " " * 5 + "--------------------------------------")
 
         t += 0.01  # Increase the time increment for smoother transitions
         rotation_angle += 0.05  # Continuously increase rotation angle
