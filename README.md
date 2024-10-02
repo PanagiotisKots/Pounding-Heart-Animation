@@ -15,7 +15,7 @@
 
 This project is dedicated to a very special person in my life, someone who brings joy and light to every moment we share.
 
-You’ve been there for me during the hardest times, lifting me up when I was down and reminding me of who I am. 🙏
+You’ve been there for me during hard times, lifting me up when I was down and reminding me of who I am. 🙏
 
 Thank you for being such an amazing friend, a constant source of happiness, and someone who always knows how to brighten my day.  😊💖
 
