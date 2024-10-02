@@ -72,12 +72,6 @@ def main():
                     print(f"{color}{char}\x1b[0m", end='')  # Print colored character
             zb[i] = 0  # Reset for next frame
 
-        # Print text below the heart
-        print("\n" + " " * 5 + "--------------------------------------")
-        print(" " * 5 + "made by: Panagiotis Kotsorgios")
-        print(" " * 5 + "made for: Ntina")
-        print(" " * 5 + "language: Python3")
-
         t += 0.01  # Increase the time increment for smoother transitions
         rotation_angle += 0.05  # Continuously increase rotation angle
         time.sleep(0.01)  # Maintain a steady frame rate
