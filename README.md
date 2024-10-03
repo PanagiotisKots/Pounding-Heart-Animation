@@ -19,7 +19,7 @@ You’ve been there for me during hard times, lifting me up when I was down and 
 
 Thank you for being such an amazing friend, a constant source of happiness, and someone who always knows how to brighten my day.  😊
 
-This is for you, someone who will always hold a special place in my heart. 💕
+This is for you, you' ll always hold a special place in my heart. 💕
 
 
 
