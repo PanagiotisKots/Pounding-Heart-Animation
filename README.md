@@ -13,7 +13,7 @@
 
 <br>
 
-This project is dedicated to a very special person in my life, someone who brings to itjoy and light.
+This project is dedicated to a very special person in my life, someone who brings joy and light to it.
 
 You’ve been there for me during hard times, lifting me up when I was down and reminding me of who I am. 🙏
 
