@@ -30,4 +30,4 @@ This is for you, you' ll always hold a special place in my heart. 💕
 | -------------- | -------------- |
 | ![Alt Text 1](img/img3.jpg) | ![Alt Text 2](img/img2.jpg) |
 
-### **Thank you**💖
+
